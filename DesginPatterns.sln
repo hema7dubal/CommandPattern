@@ -1,0 +1,32 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2015
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DesginPatterns.Plugins", "DesginPatterns.Plugins.csproj", "{2D449863-ADE0-EAE6-E77C-AEB550DBC17F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DesginPatterns", "DesginPatterns.csproj", "{F9D89987-E649-EC0E-CF58-2C8C27C4BD09}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DesginPatterns.Editor", "DesginPatterns.Editor.csproj", "{64A6FA85-466E-4387-29F6-49F8DFB9E790}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{2D449863-ADE0-EAE6-E77C-AEB550DBC17F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2D449863-ADE0-EAE6-E77C-AEB550DBC17F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2D449863-ADE0-EAE6-E77C-AEB550DBC17F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2D449863-ADE0-EAE6-E77C-AEB550DBC17F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F9D89987-E649-EC0E-CF58-2C8C27C4BD09}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F9D89987-E649-EC0E-CF58-2C8C27C4BD09}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F9D89987-E649-EC0E-CF58-2C8C27C4BD09}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F9D89987-E649-EC0E-CF58-2C8C27C4BD09}.Release|Any CPU.Build.0 = Release|Any CPU
+		{64A6FA85-466E-4387-29F6-49F8DFB9E790}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{64A6FA85-466E-4387-29F6-49F8DFB9E790}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{64A6FA85-466E-4387-29F6-49F8DFB9E790}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{64A6FA85-466E-4387-29F6-49F8DFB9E790}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
